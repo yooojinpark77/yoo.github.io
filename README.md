@@ -78,10 +78,15 @@
 ## 📦 프로젝트 구조
 
 quokka-friends/
+
 ├── design/ # 캐릭터 원화 및 감정표 시트
+
 ├── product/ # 인형·키링 샘플 및 시안
+
 ├── store/ # 스토어 관련 코드 및 데이터
+
 ├── assets/ # 홍보 이미지, SNS 콘텐츠
+
 └── README.md
 
 
